@@ -1,7 +1,7 @@
 const express = require('express');
 const parser = require('body-parser');
 const routers = require('./router');
-const twilio = require('./stuff/twilioSms.js');
+// const twilio = require('./stuff/twilioSms.js');
 const swaggerUi = require('swagger-ui-express')
 const swaggerFile = require('./swagger_output.json');
 const app = express();
