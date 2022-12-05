@@ -7,13 +7,15 @@ const mandate =  require('../stuff/baseImage');
 const redis = require("redis");
 const axios = require("axios");
 const logger = require("../logger");
-const REDIS_PORT = process.env.PORT || 6379;
-const redisClient = redis.createClient(REDIS_PORT);
-async function rd() {
-  await redisClient.connect();
-}
-rd();
-redisClient.on('error', (err) => console.log('Redis Client Error', err));
+// const REDIS_PORT = process.env.PORT || 6379;
+// const redisClient = redis.createClient(REDIS_PORT);
+// async function rd() {
+//   await redisClient.connect({
+//     url: 'redis://localhost:6379'
+//   });
+// }
+// rd();
+// redisClient.on('error', (err) => console.log('Redis Client Error', err));
 
 module.exports = async (req, res) => {
   logger.profile('mandate');
@@ -30,7 +32,7 @@ module.exports = async (req, res) => {
     // });
     const transactions = await Transaction.findAll();
     // const starShipInfoData = starShipInfo.data;
-    redisClient.set(id, JSON.stringify(transactions));
+    // redisClient.set(id, JSON.stringify(transactions));
 
     mandate();
     logger.profile('mandate');

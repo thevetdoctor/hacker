@@ -1394,3 +1394,54 @@
 {"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:03:56.406Z"}
 {"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:03:56.416Z"}
 {"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:03:56.426Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:23:13.558Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:23:13.574Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:23:13.585Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:24:08.101Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:24:08.111Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:24:08.121Z"}
+{"durationMs":10,"level":"info","message":"mandate","timestamp":"2022-12-05T23:26:36.583Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:27:30.826Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:27:30.841Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:27:30.853Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:27:35.060Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:27:39.296Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:27:39.306Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:27:39.317Z"}
+{"durationMs":11,"level":"info","message":"mandate","timestamp":"2022-12-05T23:27:44.752Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:31:07.971Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:31:07.986Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:31:07.997Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:32:10.448Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:32:10.459Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:32:10.470Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:32:11.817Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:32:11.827Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:32:11.838Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:32:15.837Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:32:15.847Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:32:15.861Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:32:17.254Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:32:17.264Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:32:17.274Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:32:22.283Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:32:22.294Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:32:22.304Z"}
+{"durationMs":10,"level":"info","message":"mandate","timestamp":"2022-12-05T23:32:30.201Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:32:39.210Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:32:39.220Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:32:39.231Z"}
+{"durationMs":12,"level":"info","message":"mandate","timestamp":"2022-12-05T23:32:42.043Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:35:59.978Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:35:59.989Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:35:59.999Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:36:13.646Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:36:13.654Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:36:13.666Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:36:16.237Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:36:16.246Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:36:16.255Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-05T23:36:26.848Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:36:26.858Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:36:26.868Z"}
+{"durationMs":12,"level":"info","message":"mandate","timestamp":"2022-12-05T23:36:29.673Z"}
