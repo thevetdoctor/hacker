@@ -1,11 +1,11 @@
 class ErrorClone extends Error {
-    status;
-    constructor(status, message) {
-      super();
-      this.status = status;
-      this.message = message;
-    }
-  }
+  status;
 
-  module.exports = ErrorClone;
-  
+  constructor(status, message) {
+    super();
+    this.status = status;
+    this.message = message;
+  }
+}
+
+module.exports = ErrorClone;

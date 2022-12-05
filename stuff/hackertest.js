@@ -1,4 +1,6 @@
 // const https = require('http');
+/* eslint-disable no-console */
+/* eslint-disable consistent-return */
 const https = require('https');
 
 async function getCountryName(code) {
@@ -28,7 +30,7 @@ async function getCountryName(code) {
         } else {
           const mappedBody = body.data.map((x) => ({ name: x.name, alpha2Code: x.alpha2Code }));
           const filteredBody = mappedBody.filter((y) => y.alpha2Code === code);
-          response = filteredBody;
+          const response = filteredBody;
           resolve(response);
         }
       });
@@ -43,7 +45,7 @@ async function getCountryName(code) {
   let count = 1;
   while (ans === false) {
     console.log(count);
-    const rest = await httpRequest(count).then((data) => data);
+    const rest = httpRequest(count).then((data) => data);
     console.log('value', rest);
     count += 1;
     if (rest[0] && code === rest[0].alpha2Code) {

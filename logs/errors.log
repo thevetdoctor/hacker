@@ -1,0 +1,104 @@
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:29:22.078Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:29:29.847Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:29:32.981Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:33:50.530Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:34:10.356Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:35:02.538Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:35:28.701Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:36:46.151Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:37:12.328Z"}
+error: Something went wrong {"timestamp":"2022-12-02T00:37:24.243Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:38:04.241Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:38:14.237Z"}
+{"level":"error","message":"Something went wrong","timestamp":"2022-12-02T00:39:05.090Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-02T00:50:07.017Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-02T00:50:07.023Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-02T00:50:07.028Z"}
+{"level":"error","message":"Unable to connect to SQLite database: R is not defined","stack":"ReferenceError: R is not defined\n    at /Users/macbook/Desktop/hacker/connection.js:18:5","timestamp":"2022-12-02T16:17:20.713Z"}
+{"level":"error","message":"missingInput is not defined","timestamp":"2022-12-02T16:31:10.075Z"}
+{"level":"error","message":"ErrorClone is not a constructor","timestamp":"2022-12-02T16:37:42.801Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:40:24.222Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:42:08.577Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:42:34.973Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:43:12.170Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:44:10.999Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:45:51.490Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:46:06.530Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:46:42.438Z"}
+{"level":"error","message":"missingInput is not a function","timestamp":"2022-12-02T16:47:13.527Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:50:59.606Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:52:21.470Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:56:32.782Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.430Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.437Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.441Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.441Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.441Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.442Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.442Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.442Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.442Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.442Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.443Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.443Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.443Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.443Z"}
+{"level":"error","message":"Missing field(s):","timestamp":"2022-12-02T16:57:30.443Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.395Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.401Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.405Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.406Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.407Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.407Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.408Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.408Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.408Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.408Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.409Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.409Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.409Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.409Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:15.410Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.426Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.428Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.428Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.429Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.429Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.430Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.430Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.431Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.431Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.432Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.433Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.433Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.434Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.435Z"}
+{"level":"error","message":"Missing field(s): firstName","timestamp":"2022-12-02T16:58:18.436Z"}
+{"level":"error","message":"Include unexpected. Element has to be either a Model, an Association or an object.","timestamp":"2022-12-02T17:31:00.791Z"}
+{"level":"error","message":"role is not associated to user!","timestamp":"2022-12-02T17:32:26.700Z"}
+{"level":"error","message":"role is not associated to user!","timestamp":"2022-12-02T20:53:26.714Z"}
+{"level":"error","message":"role is not associated to user!","timestamp":"2022-12-02T21:04:25.207Z"}
+{"level":"error","message":"role is not associated to user!","timestamp":"2022-12-02T21:04:36.693Z"}
+{"level":"error","message":"role is not associated to user!","timestamp":"2022-12-02T21:05:33.670Z"}
+{"level":"error","message":"Cannot read property 'getTableName' of undefined","timestamp":"2022-12-02T21:06:49.639Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: userroles","timestamp":"2022-12-02T21:07:26.013Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: userroles","timestamp":"2022-12-02T21:13:13.460Z"}
+{"level":"error","message":"UserRoles is not defined","timestamp":"2022-12-02T21:18:43.672Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: userroles","timestamp":"2022-12-02T21:19:15.253Z"}
+{"level":"error","message":"action is not associated to role!","timestamp":"2022-12-02T21:22:53.199Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: roleactions","timestamp":"2022-12-02T21:25:24.196Z"}
+{"level":"error","message":"Unable to connect to SQLite database: SQLITE_ERROR: duplicate column name: Id","name":"SequelizeDatabaseError","original":{"code":"SQLITE_ERROR","errno":1,"sql":"CREATE TABLE IF NOT EXISTS `roleactions` (`roleId` INTEGER REFERENCES `roles` (`id`) ON DELETE CASCADE ON UPDATE CASCADE, `date` BIGINT, `id` INTEGER PRIMARY KEY AUTOINCREMENT, `Id` INTEGER REFERENCES `actions` (`id`) ON DELETE CASCADE ON UPDATE CASCADE, UNIQUE (`roleId`, `Id`));"},"parameters":{},"parent":{"code":"SQLITE_ERROR","errno":1,"sql":"CREATE TABLE IF NOT EXISTS `roleactions` (`roleId` INTEGER REFERENCES `roles` (`id`) ON DELETE CASCADE ON UPDATE CASCADE, `date` BIGINT, `id` INTEGER PRIMARY KEY AUTOINCREMENT, `Id` INTEGER REFERENCES `actions` (`id`) ON DELETE CASCADE ON UPDATE CASCADE, UNIQUE (`roleId`, `Id`));"},"sql":"CREATE TABLE IF NOT EXISTS `roleactions` (`roleId` INTEGER REFERENCES `roles` (`id`) ON DELETE CASCADE ON UPDATE CASCADE, `date` BIGINT, `id` INTEGER PRIMARY KEY AUTOINCREMENT, `Id` INTEGER REFERENCES `actions` (`id`) ON DELETE CASCADE ON UPDATE CASCADE, UNIQUE (`roleId`, `Id`));","stack":"Error\n    at Database.<anonymous> (/Users/macbook/Desktop/hacker/node_modules/sequelize/lib/dialects/sqlite/query.js:179:27)\n    at /Users/macbook/Desktop/hacker/node_modules/sequelize/lib/dialects/sqlite/query.js:177:50\n    at new Promise (<anonymous>)\n    at Query.run (/Users/macbook/Desktop/hacker/node_modules/sequelize/lib/dialects/sqlite/query.js:177:12)\n    at /Users/macbook/Desktop/hacker/node_modules/sequelize/lib/sequelize.js:314:28\n    at async SQLiteQueryInterface.createTable (/Users/macbook/Desktop/hacker/node_modules/sequelize/lib/dialects/abstract/query-interface.js:98:12)\n    at async Function.sync (/Users/macbook/Desktop/hacker/node_modules/sequelize/lib/model.js:942:7)\n    at async /Users/macbook/Desktop/hacker/connection.js:56:5","timestamp":"2022-12-02T21:39:04.089Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: roleactions","timestamp":"2022-12-02T21:39:22.404Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: userroles","timestamp":"2022-12-02T21:39:41.950Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: userroles","timestamp":"2022-12-02T21:40:33.698Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: userroles","timestamp":"2022-12-02T22:04:55.638Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: userroles","timestamp":"2022-12-02T22:05:23.724Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: userroles","timestamp":"2022-12-02T22:07:03.461Z"}
+{"level":"error","message":"action is not associated to role!","timestamp":"2022-12-02T22:21:18.519Z"}
+{"level":"error","message":"action is not associated to role!","timestamp":"2022-12-02T22:23:38.083Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: roleactions","timestamp":"2022-12-02T22:33:18.072Z"}
+{"level":"error","message":"Error: Missing field(s): ","timestamp":"2022-12-05T22:49:51.935Z"}
+{"level":"error","message":"Error: Missing field(s): photo","timestamp":"2022-12-05T22:51:15.312Z"}
+{"level":"error","message":"Error: Missing field(s): branchCode,RCNo,dateOfIncorporation,accountName,email,phoneNumber,foreignNumber,businessAddress,businessType,subSector,state,sector,subSegment,city,tin,rmId,tnc,customerSignature,photo","timestamp":"2022-12-05T22:52:33.899Z"}
+{"level":"error","message":"Error: Missing field(s): branchCode,RCNo,dateOfIncorporation,accountName,email,phoneNumber,foreignNumber,businessAddress,businessType,subSector,state,sector,subSegment,city,tin,rmId,tnc,customerSignature,photo","timestamp":"2022-12-05T22:58:32.464Z"}
+{"level":"error","message":"SQLITE_ERROR: no such table: roleactions","timestamp":"2022-12-05T22:58:48.913Z"}

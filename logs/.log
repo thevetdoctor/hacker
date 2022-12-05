@@ -1,0 +1,3 @@
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-02T00:50:11.266Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-02T00:50:11.272Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-02T00:50:11.277Z"}

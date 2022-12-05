@@ -1,11 +1,8 @@
 const { Sequelize, DataTypes } = require('sequelize');
 const sequelize = new Sequelize('sqlite::memory:');
 
-const Transaction = sequelize.define('transaction', {
-  user_id: DataTypes.NUMBER,
-  name: DataTypes.TEXT,
-  acctNumber: DataTypes.NUMBER,
-  amount: DataTypes.NUMBER,
+const Role = sequelize.define('role', {
+  role: DataTypes.TEXT,
   date: DataTypes.BIGINT,
   id: {
     type: DataTypes.INTEGER,
@@ -14,4 +11,4 @@ const Transaction = sequelize.define('transaction', {
   },
 }, { timestamps: false });
 
-module.exports = Transaction;
+module.exports = Role;
