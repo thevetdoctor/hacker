@@ -1,5 +1,5 @@
 module.exports = (req, res) => {
-  const allowed = ['consultoba@gmail.com', 'adejumoahmad4life@gmail.com'];
+  const allowed = ['consultoba@gmail.com', 'adejumoahmad4life@gmail.com', 'oluwaseunadelabi@gmail.com'];
   const invalid = {
     message: 'Invalid credentials',
   };

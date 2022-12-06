@@ -1445,3 +1445,9 @@
 {"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-05T23:36:26.858Z"}
 {"level":"info","message":"Transactions table created","timestamp":"2022-12-05T23:36:26.868Z"}
 {"durationMs":12,"level":"info","message":"mandate","timestamp":"2022-12-05T23:36:29.673Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-06T12:01:56.451Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-06T12:01:56.467Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-06T12:01:56.488Z"}
+{"level":"info","message":"Server listening @ port: 4005","timestamp":"2022-12-06T18:33:59.236Z"}
+{"level":"info","message":"SQLite successfully connected!","timestamp":"2022-12-06T18:33:59.247Z"}
+{"level":"info","message":"Transactions table created","timestamp":"2022-12-06T18:33:59.260Z"}
